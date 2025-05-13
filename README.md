@@ -31,6 +31,7 @@ As a computer science student, I focused on **Bluetooth remote control** and **a
 - Programmed the Arduino to receive serial data from the **HM-10 Bluetooth module**.
 - Used the **Dabble Gamepad** module to control the robot’s movement from a smartphone. 
 - Tuned motor responsiveness with PWM for improved turning and speed control.
+
 **🎓 What I Learned**
 - Hardware-software integration.
 - Troubleshoot bluetooth serial communication.
@@ -42,6 +43,7 @@ As a computer science student, I focused on **Bluetooth remote control** and **a
 - Developed a **wall-following algorithm** for autonomous pathfinding  
 - Mounted an **ultrasonic sensor on a servo** to enable wide-angle scanning
 - Programmed the servo to rotate for dynamic wall detection
+
 **🎓 What I Learned**
 - Translate theoretical algorithms into real-world performance.
 - Importance of sensor calibration to handle sensor noise and unexpected edge cases.
@@ -60,9 +62,9 @@ As a computer science student, I focused on **Bluetooth remote control** and **a
 A huge thank you to my amazing teammates, the organizers, and everyone who supported us during ROBO-CON. This was a challenging but incredibly rewarding experience.
 
 ## 📸 Images
-![Our Robot](ROBO-CON-2025/images/Robot.jpg)
-![ROBO-Soccer](ROBO-CON-2025/images/Robo-Soccer.jpg)  
-![ROBO-Soccer 2](ROBO-CON-2025/images/Robo-Soccer2.jpg)
+![Our Robot](ROBO-CON%2025/images/Robot.jpg)
+![ROBO-Soccer](ROBO-CON%2025/images/Robo-Soccer.jpg)  
+![ROBO-Soccer 2](ROBO-CON%2025/images/Robo-Soccer%2.jpg)
 
 
 
