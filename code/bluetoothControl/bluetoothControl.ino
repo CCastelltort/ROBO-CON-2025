@@ -100,4 +100,4 @@ void stopMotors() {
   digitalWrite(pinLB, LOW);   // Stop Left Motor
   digitalWrite(pinRF, LOW);   // Stop Right Motor
   digitalWrite(pinRB, LOW);   // Stop Right Motor
-}  is this good
+}
