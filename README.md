@@ -64,4 +64,4 @@ A huge thank you to my amazing teammates, the organizers, and everyone who suppo
 ## 📸 Images
 ![Our Robot](ROBO-CON%202025/images/Robot.jpg)  
 ![ROBO-Soccer](ROBO-CON%202025/images/Robo-Soccer.JPG)  
-![ROBO-Soccer 2](ROBO-CON-2025/images/Robo-Soccer%202.JPG)
+![ROBO-Soccer 2](ROBO-CON%2025/images/Robo-Soccer%202.JPG)
