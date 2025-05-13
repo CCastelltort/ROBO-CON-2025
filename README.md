@@ -2,15 +2,6 @@
 
 >🏅 Winners of the **Best Design Award** at Texas Christian University’s Annual ROBO-CON 2025
 
-## 👥 Team Members
-- Alejandro Orozco Kuri  
-- Rodolfo Bello  
-- Samuel Laguna  
-- Jonathan Herron  
-- Carlota Castelltort Pinto
-
----
-
 ## 🧠 Project Overview
 Over the course of three months, we designed, built, and programmed a custom Arduino Uno robot completely from scratch to compete in the following ROBO-CON events:
 
@@ -69,9 +60,9 @@ As a computer science student, I focused on **Bluetooth remote control** and **a
 A huge thank you to my amazing teammates, the organizers, and everyone who supported us during ROBO-CON. This was a challenging but incredibly rewarding experience.
 
 ## 📸 Images
-![Our Robot](images/Robot.jpg)
-![ROBO-Soccer](images/Robo-Soccer.jpg)  
-![ROBO-Soccer 2](images/Robo-Soccer2.jpg)
+![Our Robot](ROBO-CON-2025/images/Robot.jpg)
+![ROBO-Soccer](ROBO-CON-2025/images/Robo-Soccer.jpg)  
+![ROBO-Soccer 2](ROBO-CON-2025/images/Robo-Soccer2.jpg)
 
 
 
