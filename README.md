@@ -11,6 +11,15 @@ Over the course of three months, we designed, built, and programmed a custom Ard
 
 ---
 
+## 👥 Teammates
+I had the pleasure of working alongside a talented team of engineers to bring this project to life:
+- Alejandro Orozco Kuri
+- Jonathan Herron
+- Rodolfo Bello
+- Samuel Laguna
+
+---
+
 ## 🔧 Technologies Used
 - Arduino Uno
 - HM-10 Bluetooth Module
