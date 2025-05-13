@@ -62,5 +62,5 @@ As a computer science student, I focused on **Bluetooth remote control** and **a
 A huge thank you to my amazing teammates, the organizers, and everyone who supported us during ROBO-CON. This was a challenging but incredibly rewarding experience.
 
 ## 📸 Images
-![Our Robot](ROBO-CON%202025/images/Robot.jpg)  
-![ROBO-Soccer](ROBO-CON%202025/images/Robo-Soccer.JPG)  
+![Our Robot](images/Robot.jpg)  
+![ROBO-Soccer](images/Robo-Soccer.JPG)  
